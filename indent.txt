@@ -1,16 +1,7 @@
-#include<stdio.h>
-int main()
+abc
+	{
+		hello;
+	}
 {
-  int k=5;
-  if(k>5)
-  {
-    if(k>6)
-    {
-      printf("Hello\n");
-    }
-  }
-  else
-  {
-    printf("Bye\n");
-  }
+	jk
 }

@@ -6,10 +6,12 @@
 %%
 "\t" {
   cur++;
-  if(cur>glob)
-  glob=cur;
 }
 "\n" {
+  if(cur>glob)
+  {
+    glob=cur;
+  }
   cur=0;
 }
 %%
