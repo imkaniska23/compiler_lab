@@ -1,0 +1,10 @@
+#INLUDE<STDIO.J>
+INT MAIN()
+{
+ INT K=5;
+ if(K==5)
+  PRINTF("HELLO\N");
+else
+    break;
+return 0;
+}

@@ -1,0 +1,10 @@
+#inlude<stdio.j>
+int main()
+{
+ int k=5;
+ if(k==5)
+  printf("Hello\n");
+else
+    break;
+return 0;
+}

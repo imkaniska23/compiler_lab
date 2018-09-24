@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+  int k=5;
+  if(k>5)
+  {
+    if(k>6)
+    {
+      printf("Hello\n");
+    }
+  }
+  else
+  {
+    printf("Bye\n");
+  }
+}

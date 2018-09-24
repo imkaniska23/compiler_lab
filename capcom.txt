@@ -1,0 +1,11 @@
+#inlude<stdio.j>
+int main()
+{
+ int k=5;  /* Comment In Single Line */
+ if(k==5)  /* Comment Will Go
+To Second Line */
+  printf("Hello\n");
+else  // Single Line Comment1
+    break; //single Line Comment2
+return 0;
+}
